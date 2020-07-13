@@ -1,7 +1,7 @@
 # Python_AIWorldCup_Commentary
 KAIST 주최 AI 월드컵 해설 부문
 
-**/코드/commentator_skeleton.py 파일을 test월드에
+**/코드/commentator_skeleton.py 파일을 test_world-develop/examples에 넣고 테스트 환경을 실행하여 재현 가능(ppt)참고
 
 ![image](https://user-images.githubusercontent.com/26050767/87285043-01f39a00-c532-11ea-8e24-2868096f7ccb.png)
 ![image](https://user-images.githubusercontent.com/26050767/87285058-0750e480-c532-11ea-959c-89c7eb747646.png)
