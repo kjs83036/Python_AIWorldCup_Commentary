@@ -1,0 +1,13 @@
+,core_sentence,core_word,core_words,robot
+0,Attempt missed. Mato Jajalo (1. FC Koln) right footed shot from outside the box is high and wide to the right. Assisted by Christian Clemens with a cross following a corner.,shot,"['shot', 'miss', 'assisted', 'cross', 'corner']",True
+1,"Attempt missed. Sergio Ramos (Real Madrid) header from the centre of the box is close, but misses to the left. Assisted by Mesut Ozil with a cross following a corner.",header,"['header', 'miss', 'assisted', 'cross', 'corner']",False
+2,"Attempt missed. Sergio (Osasuna) with an attempt from the centre of the box is close, but misses to the right. Assisted by Alvaro Cejudo with a cross following a corner.",attempt,"['attempt', 'miss', 'assisted', 'cross', 'corner']",True
+3,Ricardo Carvalho (Real Madrid) wins a free kick in the defensive half.,foul,"['foul', 'free kick', 'drfensive', 'half']",False
+4,"Offside, Real Madrid. KakA¡ tries a through ball, but Cristiano Ronaldo is caught offside.",offside,"['offside', 'through ball', 'caught', 'offside']",False
+5,Tiago (AtlA©tico de Madrid) is shown the yellow card for a bad foul.,foul,"['foul', 'yellow card', 'bad']",False
+6,Manu del Moral (FC Sevilla) is shown the red card for a bad foul.,foul,"['foul', 'foul', 'red card', 'bad']",False
+7,"Corner,  1. FC Koln. Conceded by Vedran Corluka.",corner,"['corner', 'conceded']",True
+8,"Substitution, Borussia Monchengladbach. Igor de Camargo replaces Raul Bobadilla.",substitution,"['substitution', 'replaces']",False
+9,Foul by Ricardo Carvalho (Real Madrid).,foul,['foul'],True
+10,Penalty conceded by Kevin McKenna (1. FC Koln) with a hand ball in the penalty area.,foul,"['foul', 'penalty', 'conceded', 'hand', 'penalty area']",False
+11,"Own Goal by Javier Paredes, Real Zaragoza.  Real Zaragoza 1, Getafe 1.",Own Goal,['Own Goal'],True

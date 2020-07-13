@@ -1,0 +1,9 @@
+데이터 출처 : https://www.kaggle.com/secareanualin/football-events
+
+수집자 : Alin Secareanu
+
+수집의도 : 축구 결과 예측 모델, 경기 시각화
+
+수집기간 : 2011~2017
+
+수집방향 : 정규식을 사용하여 텍스트 주석을 리버스 엔지니어링하여 파생
