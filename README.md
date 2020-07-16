@@ -1,14 +1,12 @@
 # Python_AIWorldCup_Commentary
 KAIST 주최 AI 월드컵 해설 부문
 
-**/코드/commentator_skeleton.py 파일을 test_world-develop/examples에 넣고 테스트 환경을 실행하여 재현 가능(ppt)참고
-
 ![image](https://user-images.githubusercontent.com/26050767/87285043-01f39a00-c532-11ea-8e24-2868096f7ccb.png)
 ![image](https://user-images.githubusercontent.com/26050767/87285058-0750e480-c532-11ea-959c-89c7eb747646.png)
 ![image](https://user-images.githubusercontent.com/26050767/87285089-1041b600-c532-11ea-9196-00ffed634d56.png)
 ![image](https://user-images.githubusercontent.com/26050767/87285105-146dd380-c532-11ea-8a80-1d252cb90aa9.png)
 
-2. 환경 세팅 및 해설 실행
+1. 환경 세팅 및 해설 실행
 	1. 리눅스 설치
 		a. usb 세팅 및 설치
 			i. rufusUSB를 통해 부팅 USB생성
