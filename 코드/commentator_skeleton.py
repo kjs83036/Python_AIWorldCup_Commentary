@@ -834,7 +834,7 @@ class BasicRule(systemRule):
 # ++++++++++++######################################재선#####################++
 
 
-class newRule(basicRule):
+class newRule(BasicRule):
 
     def __init__(self, received_frame, frame_deque_deadlock):
         super().__init__(received_frame, frame_deque_deadlock)
@@ -1003,7 +1003,7 @@ class manageData():
 # =============================================================================
 
 
-class systemRule2(basicRule):
+class systemRule2(BasicRule):
     
 
     # if make the class , please use the init 
@@ -1542,7 +1542,7 @@ class Component(ApplicationSession):
                 manage_data.add_data(data)
 
             # 기본 규칙
-            basic_rule = basicRule(self.received_frame,
+            basic_rule = BasicRule(self.received_frame,
                                    self.frame_deque_deadlock)
 
             str_shot = basic_rule.shot()
